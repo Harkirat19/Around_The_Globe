@@ -1,6 +1,6 @@
 # Around the Globe 🌍
 
-[Live Demo](#)
+[Live Demo](https://around-the-globe-steel.vercel.app/)
 
 ## 📜 Project Overview
 
@@ -27,5 +27,5 @@ This project was built with the following tools and technologies:
 
 - **Semantic HTML5 Markup**: Ensures accessibility and clean structure.
 - **Tailwind CSS**: For modern and responsive styling.
-- **React**: A JavaScript library for building user interfaces.
-- **Vite**: A fast development server and build tool for modern web projects.
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Fast development server and build tool for modern web projects.
