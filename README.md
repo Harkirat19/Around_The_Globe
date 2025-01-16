@@ -25,7 +25,7 @@ The responsive design ensures an optimal user experience across all device sizes
 
 This project was built with the following tools and technologies:
 
-- **Semantic HTML5 Markup**: Ensures accessibility and clean structure.
+- **Semantic HTML5 Markup**: For accessibility and clean structure.
 - **Tailwind CSS**: For modern and responsive styling.
-- **React**: JavaScript library for building user interfaces.
+- **React.js**: JavaScript library for building user interfaces.
 - **Vite**: Fast development server and build tool for modern web projects.
