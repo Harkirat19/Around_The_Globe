@@ -2,7 +2,9 @@ import { createContext, useContext, useEffect, useState } from "react";
 
 const CountriesContext = createContext();
 
-const BASE_URL = "https://restcountries.com/v3.1/all";
+// RestCountries API now requires 'fields' query param (max 10 fields) to reduce bandwidth usage
+// Source: https://restcountries.com/ — updated as per API owner's announcement
+const BASE_URL = "https://restcountries.com/v3.1/all?fields=name,capital,region,flags,population";
 
 const fetchCountries = async () => {
   const res = await fetch(`${BASE_URL}`);
